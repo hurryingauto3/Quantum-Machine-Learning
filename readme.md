@@ -1,3 +1,10 @@
-###Quantum Machine Learning
-## Final Project for Quantum Computation 
-#Ali Hamza | Bilal Hoda 
+## Final Project for Quantum Computation
+
+Quantum Machine Learning
+========================
+
+About
+-----
+
+Bibliography
+------------
