@@ -2,3 +2,8 @@ https://arxiv.org/pdf/1909.05074.pdf
 https://arxiv.org/pdf/1909.02108.pdf
 https://arxiv.org/pdf/0905.2794.pdf
 https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf
+https://github.com/topics/quantum-machine-learning
+https://github.com/XanaduAI/quantum-learning
+https://github.com/artix41/awesome-quantum-ml
+https://github.com/XanaduAI/quantum-neural-networks
+https://github.com/XanaduAI/qml
