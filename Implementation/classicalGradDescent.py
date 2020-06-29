@@ -16,6 +16,3 @@ def GradDesc(start, rate, precision, previous_step_size, max_iters):
         print("Iteration",iters,"\nX value is",cur_x) #Print iterations
         
     print("The local minimum occurs at", cur_x)
-
-
-GradDesc(3, 0.01, 0.01, 1, 100000)
