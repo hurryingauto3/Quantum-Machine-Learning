@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7420 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Report.aux
+The style file: ieeetr.bst
+Database file #1: Report.bib
+Warning--empty booktitle in inproceedings
+Too many commas in name 1 of "Behshad Mohebali,AmirhessamTahmassebi, AnkeMeyer-Baese, Amir H.Gandomi23" for entry BOOK:5
+while executing---line 969 of file ieeetr.bst
+Warning--empty publisher in BOOK:5
+Warning--empty journal in Article3
+Name 1 in "Jacob Biamonte, Peter Wittek3, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe, and Seth Lloyd" has a comma at the end for entry article4
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Jacob Biamonte, Peter Wittek3, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe, and Seth Lloyd" for entry article4
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Jacob Biamonte, Peter Wittek3, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe, and Seth Lloyd" for entry article4
+while executing---line 969 of file ieeetr.bst
+Warning--empty journal in article4
+You've used 8 entries,
+            1876 wiz_defined-function locations,
+            520 strings with 4488 characters,
+and the built_in function-call counts, 1370 in all, are:
+= -- 122
+> -- 43
+< -- 0
++ -- 19
+- -- 11
+* -- 67
+:= -- 202
+add.period$ -- 13
+call.type$ -- 8
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 83
+empty$ -- 169
+format.name$ -- 11
+if$ -- 340
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 13
+newline$ -- 32
+num.names$ -- 8
+pop$ -- 51
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 22
+stack$ -- 0
+substring$ -- 28
+swap$ -- 13
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 10
+width$ -- 9
+write$ -- 68
+(There were 4 error messages)

@@ -9,5 +9,5 @@ https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf
 https://github.com/topics/quantum-machine-learning
 https://github.com/XanaduAI/quantum-learning
 https://github.com/artix41/awesome-quantum-ml
-https://github.com/XanaduAI/quantum-neural-networks
-https://github.com/XanaduAI/qml
+https://github.com/XanaduAI/quantum-neural-network
+shttps://github.com/XanaduAI/qml

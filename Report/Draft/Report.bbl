@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{BOOK:3}
+E.~Alpaydm, {\em Introduction to MachineLearning}.
+\newblock The MIT Press, 2010.
+
+\bibitem{inproceedings}
+E.~Aimeur, D.~Zekrifa, and S.~Gambs, ``Machine learning in a quantum world,''
+  pp.~431--442, 05 2012.
+
+\bibitem{BOOK:1}
+P.~Wittek, {\em Quantum Machine Learning - What Quantum Computing Means to Data
+  Mining}.
+\newblock Elsevier AP, Academic Press, 2014.
+
+\bibitem{BOOK:4}
+V.~F.Whelan, {\em Biomedical Texture Analysis}.
+\newblock Academic Press, 2017.
+
+\bibitem{BOOK:5}
+A.-B. A.~H. Behshad~Mohebali, AmirhessamTahmassebi, {\em Handbook of
+  Probabilistic Models}.
+\newblock 2020.
+
+\end{thebibliography}

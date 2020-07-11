@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7420 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Report.aux
+The style file: ieeetr.bst
+Database file #1: Report.bib
+Warning--empty booktitle in inproceedings
+Too many commas in name 1 of "Behshad Mohebali,AmirhessamTahmassebi, AnkeMeyer-Baese, Amir H.Gandomi23" for entry BOOK:5
+while executing---line 969 of file ieeetr.bst
+Warning--empty publisher in BOOK:5
+You've used 5 entries,
+            1876 wiz_defined-function locations,
+            506 strings with 4170 characters,
+and the built_in function-call counts, 946 in all, are:
+= -- 87
+> -- 27
+< -- 0
++ -- 12
+- -- 7
+* -- 46
+:= -- 136
+add.period$ -- 9
+call.type$ -- 5
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 56
+empty$ -- 115
+format.name$ -- 7
+if$ -- 238
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 9
+newline$ -- 22
+num.names$ -- 5
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 28
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 7
+width$ -- 6
+write$ -- 45
+(There was 1 error message)
